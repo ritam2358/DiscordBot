@@ -1,7 +1,8 @@
-### Repository containing Discord Bots I created
+### Repository containing Discord Bot I created
 
 #### Create a Discord Bot
-- Go to descord.com/developers/applications
+
+- Go to discord.com/developers/applications
 - Create a new Application
 - Go to the Bot tab and build a bot
 - Go to OAuth2 and select bot from scopes. Also select the desired permissions.
@@ -12,4 +13,4 @@
 - Go to .env file.
 - Enter your Discord Bot Token ID in the place holder {bot-token}.
 - Run the desired python file in the terminal.
-- Check your server, your bot is online.
+- Check your server, your bot is now online.
